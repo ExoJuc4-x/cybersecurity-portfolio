@@ -11,7 +11,7 @@ My name is Juan Cortes, and my interest in cybersecurity is driven by the abilit
 | :--- | :--- |
 | **Languages** | Python (Scripting, Automation), SQL |
 | **Operating Systems** | Windows (Administration), Linux (Bash, Server Environments) |
-| **Security Concepts** | Red/Blue Team Mindset, Threat Analysis, OWASP Top 10, Ethics |
+| **Security Concepts** | Red/Blue Team Mindset, Threat Analysis, OWASP, Ethics |
 | **Networking** | TCP/IP Fundamentals, Subnetting, Diagnostic Tools |
 
 ---
